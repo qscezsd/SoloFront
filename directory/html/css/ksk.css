@@ -187,3 +187,14 @@
     background-color: #dde0e3;
   }
   
+  .text-hover-custom:hover {
+    color: #50a78b !important;
+  }
+  
+  .text-custom {
+    color: #606060 !important;
+  }
+
+  .text-custom:hover {
+    color: #50a78b !important;
+  }
